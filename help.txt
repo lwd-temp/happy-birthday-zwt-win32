@@ -1,6 +1,6 @@
 创建发布版本操作流程
 1.修改info.py和main.py（如必要）以符合需求
-2.准备开发环境 Windows XP及更新版本 Python 3（推荐3.7 x86） pywin32 pyinstaller
+2.准备开发环境 Windows XP（需要Python3的远古版本）及更新版本 Python 3（推荐3.7 x86） pywin32 pyinstaller
 （修改环境变量PATH）
 3.cd至代码库根目录
 4.执行 pyi-makespec -F -w main.py
